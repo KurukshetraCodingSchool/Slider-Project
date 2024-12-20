@@ -25,6 +25,8 @@ main{
     border-radius: 50px;
    background-position: center;
    background-size: cover;
+   transition: all ease 1s;
+   cursor: pointer;
 }
 .slider:nth-child(1){
     width: 700px;
